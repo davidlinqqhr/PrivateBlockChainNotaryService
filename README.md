@@ -1,5 +1,5 @@
-#Private Blockchain Notary Service
-a Star Registry that allows users to claim ownership of their favorite star in the night sky.
+# Private Blockchain Notary Service
+    a Star Registry that allows users to claim ownership of their favorite star in the night sky.
 
 
 ## API Reference
